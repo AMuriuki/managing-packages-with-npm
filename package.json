@@ -1,7 +1,6 @@
 {
-	"author": "Arnold Muriuki",
-
 	"name": "fcc-learn-npm-package-json",
+	"author": "Arnold Muriuki",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
